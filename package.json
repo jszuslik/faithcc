@@ -1,0 +1,16 @@
+{
+  "name": "faithcc",
+  "version": "1.0.0",
+  "description": "Faith CC Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit1"
+  },
+  "author": "Joshua Szuslik",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}

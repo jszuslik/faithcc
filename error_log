@@ -1,0 +1,6 @@
+[17-Mar-2017 07:02:19 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/faithccu/public_html/wp-content/themes/faithcc/404.php on line 10
+[23-Mar-2017 14:36:57 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/faithccu/public_html/wp-content/themes/faithcc/404.php on line 10
+[28-Mar-2017 10:22:47 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/faithccu/public_html/wp-content/themes/faithcc/404.php on line 10
+[29-Mar-2017 12:32:17 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/faithccu/public_html/wp-content/themes/faithcc/404.php on line 10
+[14-May-2017 16:26:55 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/faithccu/public_html/wp-content/themes/faithcc/index.php on line 16
+[21-Aug-2017 12:07:53 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/faithccu/public_html/wp-content/themes/faithcc/404.php on line 10
