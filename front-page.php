@@ -148,7 +148,8 @@
           </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          <div class="funnel" style="background-image:url('<?php echo $url_2; ?>')">
+          <div class="funnel" style="background-image:url('<?php echo $url_2; ?>'); background-repeat: no-repeat;
+                  background-position: center">
             <a href="<?php the_permalink($funnel_2->ID); ?>">
               <div class="funnel_inner funnel_green">
                 <span class="funnel_helper">
@@ -159,7 +160,7 @@
           </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-          <div class="funnel" style="background-image:url('<?php echo $url_3; ?>')">
+          <div class="funnel" style="background-image:url('<?php echo $url_3; ?>');">
             <a href="<?php the_permalink($funnel_3->ID); ?>">
               <div class="funnel_inner funnel_blue">
                 <span class="funnel_helper">
