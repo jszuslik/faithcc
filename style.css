@@ -6,8 +6,6 @@ Description: This is a blank bootstrap 3.1.1 theme for wordpress. Feel free to u
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-GitHub Theme URI: jszuslik/faithcc
-GitHub Theme URI: https://github.com/jszuslik/faithcc
 */
 /*Wordpress editor styles start*/
 html {
@@ -602,7 +600,7 @@ blockquote.right {
     margin: 0;
     text-transform: uppercase; }
   .email_subscribe {
-    padding: 0 60px; }
+    padding: 0 25px; }
   .email_subscribe .frm_style_formidable-style.with_frm_style input[type=text] {
     padding: 25px 10px;
     border-radius: 0; }
